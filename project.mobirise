@@ -1,0 +1,357 @@
+{
+  "settings": {
+    "name": "Maxfan",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "imageResize": true,
+    "uniqCompNum": 19,
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/maxfan-1-128x128.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Maxfan",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#eb6b56",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2b0680",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Yangi qirralarni kashf eting",
+          "text": "Maxfan bilan kelajak sari<br>Maxfan - onlayn kurslar to'plami.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html#pricing-table2-c\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Bizning kurslarimiz</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Maxfan bilan bilim olish va berish jarayoni juda oson.",
+          "text": "Maxfan platformasining maqsadi  - hammaga bilim olish uchun imkoniat yaratish. Maxfan yordamida siz uydan chiqmasdan bilim almasha olasiz - har qachongidan ham osonroq.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-g",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "48px"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "font-size": "23px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "O'quvchilar uchun:&nbsp;",
+          "text": "Maxfan platformasida siz bepul va pullik kurslarda ishtirok etish imkoniyatiga ega bo'lasiz. Bepul kurslarda qatnashish uchun ro'yxatdan o'tish shart emas. Sizga kerak bo'lgan yagona narsa - Internet va Hoxsh.\n<br>\n<br>Agar bugun yurmasangiz, ertaga yugurishingiz kerak bo'ladi...&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-h",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "font-size": "23px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "48px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1605.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "Oqtuvchilar uchun:",
+          "text": "Maxfanda bir nechta darsliklaringizni joylashtirish imkoniyati mavjud. O'zingizning darsliklaringizga narx belgilang yoki ularni bepul qiling.\n<br>\n<br>O'qitish - bu biror narsani ikki marta o'rganish imkoniyati. Jozef Xubert",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-i",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "23px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Savolingiz bormi?",
+          "subtitle": "",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Savolni yuborish</a>",
+          "form": {
+            "action": "sherzodedu@gmail.com",
+            "alerts": {
+              "success": "Savolingiz uchun raxmat!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Ismingiz"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telefon raqamingiz"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Savolingiz"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-2",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "Bizning kurslar",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-price-figure": {
+              "text-align": "left",
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": "hidden",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "description1": "Batafsil ma'lumot",
+          "description2": "Batafsil ma'lumot",
+          "description3": "More details",
+          "description4": "More details",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.madinaharabic.com/arabic-reading-course/lessons/L000_001.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Boshlash</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://app.perfectlyspoken.com/app/courses/783812a5-da1d-469c-b101-5b94b331bf76\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Boshlash</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.madinaharabic.com/arabic-language-course/lessons/\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Boshlash</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "title": "Kurslar",
+          "subtitle": "Kursni tanlang",
+          "title1": "Arab tili - O'qish qoydalari",
+          "title2": "Arab tili - Grammatika",
+          "title3": "Ingliz tili - Beginner(Boshlang'ich)",
+          "title4": "ULTIMATE",
+          "subtitle1": "Ma'lumot",
+          "subtitle2": "Ma'lumot",
+          "subtitle3": "Ma'lumot",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "",
+          "currency2": "",
+          "currency3": "so'm",
+          "currency4": "$",
+          "price1": "Bepul",
+          "price2": "Bepul",
+          "price3": "150 000",
+          "price4": "0",
+          "period1": "",
+          "period2": "",
+          "period3": "/1 oy.",
+          "period4": "/mo.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Arab tilli - O\"qish qoydalari. Bu kurs arab tilini endi boshlagan talabalar ga tavsia etiladi.</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Arab tilida oqishni bilgan talabalar ga tavsia etiladi</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Ingliz tilini boshlang'ich darsliklari. Ingliz tili bilan mutloqo notanish talabalarga tavsia etiladi</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-c"
+        }
+      ]
+    }
+  }
+}
